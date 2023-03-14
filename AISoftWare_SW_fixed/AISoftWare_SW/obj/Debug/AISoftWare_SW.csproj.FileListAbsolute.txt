@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\bin\Debug\AISoftWare_SW.exe.config
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\bin\Debug\AISoftWare_SW.exe
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\bin\Debug\AISoftWare_SW.pdb
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.Form1.resources
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.Properties.Resources.resources
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.exe
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.pdb
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\AISoftWare_SW\AISoftWare_SW\obj\Debug\AISoftWare_SW.csproj.CopyComplete
