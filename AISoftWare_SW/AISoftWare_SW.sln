@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AISoftWare_SW", "AISoftWare_SW\AISoftWare_SW.csproj", "{20C11FB6-222A-4635-83BD-ED1CB1CF7684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C11FB6-222A-4635-83BD-ED1CB1CF7684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C11FB6-222A-4635-83BD-ED1CB1CF7684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C11FB6-222A-4635-83BD-ED1CB1CF7684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C11FB6-222A-4635-83BD-ED1CB1CF7684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {018FB987-D05D-4929-8549-53F6C06EC958}
+	EndGlobalSection
+EndGlobal
